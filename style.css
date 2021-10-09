@@ -1,0 +1,29 @@
+*{
+    margin: 4;
+    padding: 7;}
+.second_line div{
+    width: 50%;}
+.third_line div{
+    width: 33.3%;}
+.second_line, .third_line{
+    overflow: auto;}
+.z1, .z2, .z3, .z4, .z5, .z6{
+    height: 33vh;}
+div{
+    text-align: center;}
+.z1{
+    background: #8142d4;}
+.z2{
+    background:rgb(69, 115, 216);
+    float: left;}
+.z3{
+    background: rgb(80, 230, 210);    float: right;}
+.z4{
+    background: rgb(216, 82, 82);
+    float: left;}
+.z5{
+    background: rgb(119, 0, 255);
+    float: left;}
+.z6{
+    background:rgb(184, 31, 184);
+    float: left;}
